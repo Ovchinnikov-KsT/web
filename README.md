@@ -5,3 +5,4 @@
 ## [тестовый набор для оплаты](https://github.com/Ovchinnikov-KsT/web/blob/main/G8-2024-09-03%20(1).pdf)
 ## [тестовый прогон](https://github.com/Ovchinnikov-KsT/web/blob/main/G8-Express%2Brun%2B2024_09_03.pdf)
 ## [отчет о дефектах](https://docs.google.com/spreadsheets/d/1PiW0wxOVFY-kbrgU-sRHmAPJ63fCIqpc/edit?usp=sharing&ouid=107051174852674585152&rtpof=true&sd=true)
+## [перехват трафика с помощью Charles proxy](https://drive.google.com/drive/folders/1idUwE-XdT7BbvxCfEtEjnz_2qtE_yBIO?usp=drive_link)
